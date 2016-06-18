@@ -118,8 +118,6 @@ main()
 			
 				break;		
 		}
-		printf ("\nDigite 1 para continuar:");
-		scanf ("%d", &continuar);
 	}
 
 }
